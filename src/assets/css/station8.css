@@ -1,32 +1,38 @@
+.Flexbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
-    background-color: #fff;
-    padding: 20px;
+  background-color: #fff;
+  padding: 20px;
 }
 
 .card__title {
-    color: #282828;
-    font-size: 14px;
+  color: #282828;
+  font-size: 14px;
 }
 
 .card__description {
-    color: #282828;
-    font-size: 12px;
+  color: #282828;
+  font-size: 12px;
 }
 
 .card__img-top {
-    width: 288px;
-    height: 182px;
-    margin-bottom: 20px;
+  width: 288px;
+  height: 182px;
+  margin-bottom: 20px;
 }
 
 body {
-    background-color: #C4C4C4;
+  background-color: #c4c4c4;
 }
 
 header {
-    background-color: #fff;
+  background-color: #fff;
 }
 
 footer {
-    background-color: #fff;
+  background-color: #fff;
 }
